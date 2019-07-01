@@ -1,4 +1,4 @@
-package com.lhc.com.lhc.simplethreadutils.core;
+package com.lhc.simplethreadutils.core;
 
 public class TestMain {
     public static void main(String[] args) {

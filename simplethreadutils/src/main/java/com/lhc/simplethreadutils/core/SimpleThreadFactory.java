@@ -1,4 +1,4 @@
-package com.lhc.com.lhc.simplethreadutils.core;
+package com.lhc.simplethreadutils.core;
 
 import java.util.concurrent.ThreadFactory;
 import java.util.concurrent.atomic.AtomicLong;

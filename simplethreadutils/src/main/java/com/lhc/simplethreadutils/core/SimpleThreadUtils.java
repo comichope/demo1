@@ -1,4 +1,4 @@
-package com.lhc.com.lhc.simplethreadutils.core;
+package com.lhc.simplethreadutils.core;
 
 import org.jetbrains.annotations.Contract;
 import org.jetbrains.annotations.NotNull;
